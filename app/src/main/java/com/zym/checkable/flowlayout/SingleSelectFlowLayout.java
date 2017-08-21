@@ -5,8 +5,6 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.widget.Button;
 
-import com.liangfeizc.flowlayout.FlowLayout;
-
 /**
  * Created by zym on 2017/8/18.
  */
