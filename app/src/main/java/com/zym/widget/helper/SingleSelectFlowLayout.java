@@ -1,4 +1,4 @@
-package com.zym.checkable.flowlayout;
+package com.zym.widget.helper;
 
 import android.content.Context;
 import android.text.TextUtils;
